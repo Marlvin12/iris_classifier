@@ -1,7 +1,5 @@
 # iris_classifier
-Here's a simple README file for your Iris Classifier project:
 
-```
 # Iris Classifier
 
 This project is a simple Iris Classifier web app built using React and the `ml-logistic-regression` library. Users can upload their own Iris dataset in CSV format to train and test the model. The web app then displays the model's accuracy.
@@ -13,7 +11,7 @@ Before you can run the project, make sure you have Node.js installed on your sys
 1. Clone the repository:
 
 ```
-git clone https://github.com/yourusername/iris-classifier.git
+git clone https://github.com/Marlvin12/iris_classifier.git
 ```
 
 2. Change to the project directory:
